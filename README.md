@@ -2,8 +2,8 @@
 
 # Checklist
 
-- [ ] Seção1. Introdução
-- [ ] Seção2. Instalando o Laravel
+- [x] Seção1. Introdução
+- [x] Seção2. Instalando o Laravel
 - [ ] Seção3. Rotas Views
 - [ ] Seção4. Conhecendo o blade
 - [ ] Seção5. Avançando na template engine Blade(loop)
