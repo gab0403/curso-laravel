@@ -11,7 +11,7 @@
 - [x] Seção7. Criando layout com blade
 - [x] Seção8. Resgatando parâmetros de URL
 - [x] Seção9. Criando controllers
-- [ ] Seção10. Conexão ao banco de dados MySQL
+- [x] Seção10. Conexão ao banco de dados MySQL
 - [ ] Seção11. Introdução a migrations do Laravel
 - [ ] Seção12. Avançando em migrations do Laravel
 - [ ] Seção13. Utilizando o Eloquente no Laravel
