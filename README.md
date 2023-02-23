@@ -10,7 +10,7 @@
 - [x] Seção6. Adicionando arquivos estáticos
 - [x] Seção7. Criando layout com blade
 - [x] Seção8. Resgatando parâmetros de URL
-- [ ] Seção9. Criando controllers
+- [x] Seção9. Criando controllers
 - [ ] Seção10. Conexão ao banco de dados MySQL
 - [ ] Seção11. Introdução a migrations do Laravel
 - [ ] Seção12. Avançando em migrations do Laravel
