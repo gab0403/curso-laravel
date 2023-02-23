@@ -15,7 +15,7 @@
 - [x] Seção11. Introdução a migrations do Laravel
 - [x] Seção12. Avançando em migrations do Laravel
 - [x] Seção13. Utilizando o Eloquent no Laravel
-- [ ] Seção14. Finalizando a Home
+- [x] Seção14. Finalizando a Home
 - [ ] Seção15. Salvando dados no banco MySQL
 - [ ] Seção16. Conhecendo as Flash Messages
 - [ ] Seção17. Upload de imagens com Laravel
