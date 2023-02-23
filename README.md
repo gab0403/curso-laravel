@@ -22,13 +22,14 @@
 - [ ] Seção18. Resgatando um registro do banco de dados
 - [ ] Seção19. Salvando JSON no banco de dados
 - [ ] Seção20. Salvando datas no banco de dados
-- [ ] Seção21. Busca no Laravel (login/registro)
-- [ ] Seção22. Relação One to Many
-- [ ] Seção23. Exibindo dados do usuário na view
-- [ ] Seção24. Criando uma dashboard 
-- [ ] Seção25. Deletando dados (CRUD:delete)
-- [ ] Seção26. Atualização de dados (CRUD:update)
-- [ ] Seção27. Relação many to many
-- [ ] Seção28. Exibindo eventos do usuário
-- [ ] Seção29. Removendo presença do evento
-- [ ] Seção30. Conclusão
+- [ ] Seção21. Busca no Laravel
+- [ ] Seção22. Autenticação no Laravel(login/registro)
+- [ ] Seção23. Relação One to Many
+- [ ] Seção24. Exibindo dados do usuário na view
+- [ ] Seção25. Criando uma dashboard 
+- [ ] Seção26. Deletando dados (CRUD:delete)
+- [ ] Seção27. Atualização de dados (CRUD:update)
+- [ ] Seção28. Relação many to many
+- [ ] Seção29. Exibindo eventos do usuário
+- [ ] Seção30. Removendo presença do evento
+- [ ] Seção31. Conclusão
