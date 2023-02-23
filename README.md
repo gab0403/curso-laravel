@@ -14,7 +14,7 @@
 - [x] Seção10. Conexão ao banco de dados MySQL
 - [x] Seção11. Introdução a migrations do Laravel
 - [x] Seção12. Avançando em migrations do Laravel
-- [ ] Seção13. Utilizando o Eloquente no Laravel
+- [x] Seção13. Utilizando o Eloquent no Laravel
 - [ ] Seção14. Finalizando a Home
 - [ ] Seção15. Salvando dados no banco MySQL
 - [ ] Seção16. Conhecendo as Flash Messages
