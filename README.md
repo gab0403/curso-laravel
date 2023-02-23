@@ -4,11 +4,11 @@
 
 - [x] Seção1. Introdução
 - [x] Seção2. Instalando o Laravel
-- [ ] Seção3. Rotas Views
-- [ ] Seção4. Conhecendo o blade
-- [ ] Seção5. Avançando na template engine Blade(loop)
-- [ ] Seção6. Adicionando arquivos estáticos
-- [ ] Seção7. Criando layout com blade
+- [x] Seção3. Rotas Views
+- [x] Seção4. Conhecendo o blade
+- [x] Seção5. Avançando na template engine Blade(loop)
+- [x] Seção6. Adicionando arquivos estáticos
+- [x] Seção7. Criando layout com blade
 - [ ] Seção8. Resgatando parâmetros de URL
 - [ ] Seção9. Criando controllers
 - [ ] Seção10. Conexão ao banco de dados MySQL
