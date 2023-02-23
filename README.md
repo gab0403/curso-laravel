@@ -12,7 +12,7 @@
 - [x] Seção8. Resgatando parâmetros de URL
 - [x] Seção9. Criando controllers
 - [x] Seção10. Conexão ao banco de dados MySQL
-- [ ] Seção11. Introdução a migrations do Laravel
+- [x] Seção11. Introdução a migrations do Laravel
 - [ ] Seção12. Avançando em migrations do Laravel
 - [ ] Seção13. Utilizando o Eloquente no Laravel
 - [ ] Seção14. Finalizando a Home
