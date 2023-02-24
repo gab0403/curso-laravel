@@ -17,7 +17,7 @@
 - [x] Seção13. Utilizando o Eloquent no Laravel
 - [x] Seção14. Finalizando a Home
 - [x] Seção15. Salvando dados no banco MySQL
-- [ ] Seção16. Conhecendo as Flash Messages
+- [x] Seção16. Conhecendo as Flash Messages
 - [ ] Seção17. Upload de imagens com Laravel
 - [ ] Seção18. Resgatando um registro do banco de dados
 - [ ] Seção19. Salvando JSON no banco de dados
