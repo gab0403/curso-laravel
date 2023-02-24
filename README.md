@@ -20,7 +20,7 @@
 - [x] Seção16. Conhecendo as Flash Messages
 - [x] Seção17. Upload de imagens com Laravel
 - [x] Seção18. Resgatando um registro do banco de dados
-- [ ] Seção19. Salvando JSON no banco de dados
+- [x] Seção19. Salvando JSON no banco de dados
 - [ ] Seção20. Salvando datas no banco de dados
 - [ ] Seção21. Busca no Laravel
 - [ ] Seção22. Autenticação no Laravel(login/registro)
