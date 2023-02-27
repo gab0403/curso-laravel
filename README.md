@@ -30,6 +30,6 @@
 - [x] Seção26. Deletando dados (CRUD:delete)
 - [x] Seção27. Atualização de dados (CRUD:update)
 - [x] Seção28. Relação many to many
-- [ ] Seção29. Exibindo eventos do usuário
+- [x] Seção29. Exibindo eventos do usuário
 - [ ] Seção30. Removendo presença do evento
 - [ ] Seção31. Conclusão
