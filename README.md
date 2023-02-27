@@ -1,5 +1,14 @@
 # Curso de Laravel - Hora de Codar
 
+# Alguns conteúdos:
+
+* Laravel
+* MySQL
+* Blade
+* Eloquent
+* CRUD
+* Artisan
+
 # Checklist
 
 - [x] Seção1. Introdução
