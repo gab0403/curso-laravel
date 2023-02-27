@@ -27,7 +27,7 @@
 - [x] Seção23. Relação One to Many
 - [x] Seção24. Exibindo dados do usuário na view
 - [x] Seção25. Criando uma dashboard 
-- [ ] Seção26. Deletando dados (CRUD:delete)
+- [x] Seção26. Deletando dados (CRUD:delete)
 - [ ] Seção27. Atualização de dados (CRUD:update)
 - [ ] Seção28. Relação many to many
 - [ ] Seção29. Exibindo eventos do usuário
