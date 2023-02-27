@@ -31,5 +31,5 @@
 - [x] Seção27. Atualização de dados (CRUD:update)
 - [x] Seção28. Relação many to many
 - [x] Seção29. Exibindo eventos do usuário
-- [ ] Seção30. Removendo presença do evento
-- [ ] Seção31. Conclusão
+- [x] Seção30. Removendo presença do evento
+- [x] Seção31. Conclusão
