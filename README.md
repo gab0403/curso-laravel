@@ -25,7 +25,7 @@
 - [x] Seção21. Busca no Laravel
 - [x] Seção22. Autenticação no Laravel(login/registro)
 - [x] Seção23. Relação One to Many
-- [ ] Seção24. Exibindo dados do usuário na view
+- [x] Seção24. Exibindo dados do usuário na view
 - [ ] Seção25. Criando uma dashboard 
 - [ ] Seção26. Deletando dados (CRUD:delete)
 - [ ] Seção27. Atualização de dados (CRUD:update)
